@@ -12,4 +12,4 @@ yarn run dev
 
 ## Link to deployed app
 
-https://git-hub-user-finder-puce.vercel.app/
+https://git-hub-user-finder-eight.vercel.app/
